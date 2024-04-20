@@ -50,4 +50,4 @@ The code is structured as follows:
 ## Video Links
 
 - RVIZ Simulation: https://youtu.be/Qs8nekDoCMs
-- Setup Assistant configuration: https://youtu.be/uP3c0ydvTdQ 
+- Setup Assistant Configuration: https://youtu.be/uP3c0ydvTdQ 
